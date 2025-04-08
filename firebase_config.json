@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stock-prediction-app-85558",
+  "private_key_id": "3036d8f1441a2ac9833958266ff430c5ca3d89da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3JlLxwuARp2Y7\ntt6lUVcUQ89TcomClWl+QBGo90SKn4aCj3iPMkh3KEHS6ovt5TCYyBbx296W5JMG\n0Ru1DE6V6VpsDhL3XqWGazU9I17jIYDvFRztGBCTvHKzjsw519TafRRZDTLmmLi4\nTdAugkqev6LhOrztlM+AsmKgVhkKqx77CoeMa4AbufytKf4CzI4LpWhRlm+az8WU\nlrDzLcJCdkxEOqrBmaECyQQbf5BEG/z8yOEDyciGXhEDn8bOtC4e33G+LtZgRYbf\ngpdcuuAZX1IuA+fNZd2nYJyqquofBKTxZHm1/KV/81FFP2krO3STy636Nd22Xp9i\nptD0qHatAgMBAAECggEAPapnrwMAUrFcWKq/2EXE3gve2Kft6MvJ0zpbN9rZdxsz\nPO51lzFE+OnTD+Ls7lKGxEpKf3CaR4/6eQcbHyBfrVX+nfc3J5b0gIfESyuHnU4A\njX88WBAMNNH0hMSFuswS3OXUXg91nfK570Qz3hT8burzOoZ+ajf6jciCMJ4MnGxi\nQgMIktLJc3zR+VZwb1aqO0oGLHXLQrrZgGoMY5QJzyc9csYNycK7LEXFOGONoJ+0\nbCxn4EZmd5DRyd9K/kfNaEnSWveJtQaADu8Xoz5yI7xJ2nbxaCCRniDm74khBBBU\n8LmJGjc1JYc7iA+/PNFBWA84S1nCfrq15kMse0hfuQKBgQD34rT2gDOeSANQzC3b\nx5Mj2q6F0AtHi3ZjobJ+bRoVZVLlGC2I3W7UVcBDjl/Sf9J+AdghjxLASjuxpBwr\nr/goAQU5aISI56GiPgVV3y5zMlrXyyoJxlmD7sYnHQhfyL9xZ/ZAD/WM1ADRKf+0\nCCNxQaxRF+kR75YTxntT5y2mtwKBgQC9JSCcO7j1OLyeHhjcn+PM3+m2LrV1gYHY\nnjp6/czL/ROqEQaDUsU6h/HVVuOrEB9ktzlfgMzzVEwHlnJPQDUUA6RPzpnj4/m1\ndydIGXMGb3JlYOp7csHlBkgHhN0HbzKyYENBSQaptLDA8bNQSi9yPVljxMj1Kkmd\n89GdOubJuwKBgQCfcjDqmd4aAsI3N46L3xyzJFe79O08cOWPApRYo/7yIkGm4N1x\nOtWuORY5nhvev596s978/xWVoGozQpdoNoFN4hIlMiiGE1AxlulBqhQrvwkV4zXA\nIdi0d2L4B8G6MtuJq9CGtn1Av6Fi6Tvz5oQ9tnuLkfC2O8DyKWpstrfzkwKBgCtg\ntmfeMn7asjc5A86lRKMZvwmvEKKQPu0k7JiEWFF4Cuh32xyHAQB5aPbaZIA4xFpe\nwuOqMFalwIIE+NZADWw3oZlD8nsXL490cifQ3lZdfMjPPzdsjBcwJ5jB2cb4s5HB\nDeuNCeAltlupkswZF2SFuVhuKwA+4H8/CZWbio49AoGANm9X6O/64cB+icBJB5xE\nIBQjBXS862A1PmeCC5LOKrMFbX8dLxKjr7hswLcOWGz6GiJUkBs57PHWdKEaY0dY\nQKttTZH2YUbKB6M3p49gXnE/T/FqpA7AYAVTA5NAfyfnDdgMfppFysE0zBRanyRu\nZZ7km8i6HvvlMjQHJ5y6pb0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@stock-prediction-app-85558.iam.gserviceaccount.com",
+  "client_id": "112658011612772124200",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40stock-prediction-app-85558.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
